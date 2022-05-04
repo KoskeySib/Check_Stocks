@@ -1,2 +1,9 @@
-# Check_Stocks
-Checking stocks with indicators for a good buy
+## Начало работы
+
+<!-- termynal -->
+
+```
+$ pip install tinkoff-investments
+```
+
+## Возможности
