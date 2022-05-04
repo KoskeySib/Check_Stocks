@@ -6,7 +6,7 @@ from tinkoff.invest import Client
 from datetime import datetime, timedelta
 from pytz import timezone
 
-TOKEN = "t.g1GENze7RU3kjBnT-KkWpAQf_7gqxi_f3RcltSTOLg_THhuzM9TvwdLZmnwEGDuSWK8oWTq2-mheF9iYbU-mZg"
+TOKEN = ""
 
 # -----------------------------------------------------------------------------------------------------
 # OPTIONS
