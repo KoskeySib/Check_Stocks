@@ -14,12 +14,12 @@
 $ pip install tinkoff-investments
 ```
 
-Для запуска проверки, нужно добавить токен в строку TOKEN = " ".
+Для запуска проверки, нужно добавить токен в соответствующую строку
 
 <!-- termynal -->
 
 ```
-$ export INVEST_TOKEN=YOUR_TOKEN
+TOKEN=" "
 ```
 
 ## Возможности
